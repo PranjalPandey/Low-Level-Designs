@@ -1,0 +1,2 @@
+class InvalidElementException(RuntimeError):
+    pass

@@ -1,0 +1,2 @@
+class InvalidNodeException(RuntimeError):
+    pass
