@@ -1,4 +1,4 @@
-
+import abc
 # --- Observer Pattern (Unchanged) ---
 class Observer(abc.ABC):
     @abc.abstractmethod
